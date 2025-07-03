@@ -1,0 +1,2 @@
+21/03/2025 - 10:42:07	Guia: 50113901377 |	Cod procedimento: 10101012 |	Qtd Solicitada: 1 |	Qtd Anterior: 1 | 	Qtd Prevista (API): 1
+21/03/2025 - 10:42:17	Guia: 50113901376 |	Cod procedimento: 10101012 |	Qtd Solicitada: 1 |	Qtd Anterior: 1 | 	Qtd Prevista (API): 1
