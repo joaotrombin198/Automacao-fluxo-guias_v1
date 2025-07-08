@@ -1,2 +1,0 @@
-27/06/2025 - 15:40:57	Guia: 50113903556 |	Cod procedimento: 41101227 |	Qtd Solicitada: 1 |	Qtd Anterior: 1 | 	Qtd Prevista (API): 1
-27/06/2025 - 15:41:12	Guia: 50113903555 |	Cod procedimento: 41101227 |	Qtd Solicitada: 1 |	Qtd Anterior: 1 | 	Qtd Prevista (API): 1
